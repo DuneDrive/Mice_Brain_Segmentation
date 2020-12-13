@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Modified from Adam's
+
 import numpy as np
 #import keras
 import os
